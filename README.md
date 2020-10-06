@@ -45,3 +45,20 @@ vue-router,vuex,vue-devtools,vue-loader, awesome-vue
 	}
 ```
 
+### git store username and password  
+
+Caution:  password is in plain text. 
+
+```
+(base) [admin@vuehack ~]$ git config --global credential.helper store 
+```
+
+###  Source from element-ui-admin
+
+To be honest, element-ui-admin is some kind of "good" example in vue world.  By "good" I mean there are few vue example better than this one. However, element-ui-admin's codes  really sucks, it can not be good app example comparing to all  kinds of front app, , I mean android app or iOS app. 
+
+At this time, I could not determine  it is because 
+a) vue framework not good enough? 
+b) all web front based on js tech always sucks?   As we all know, javascript is kind of "shit" programming language. Based on that, current front tech such as angular, react or vue are already kind of miracle.  Is there any chance  
+
+Anyway, I w
