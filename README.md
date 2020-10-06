@@ -130,4 +130,10 @@ module.exports = {
 ```
 
 
+## VUE CLI Config
+
+###  .env file
+###  vue.config.js
+
+
 
