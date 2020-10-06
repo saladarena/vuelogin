@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.scanRepositories": [
+			"/opt/rh/sclo-git25/root/usr/bin/"
+		],
+		"files.exclude": {
+			"**/node_modules": true
+		}
+	}
+}
